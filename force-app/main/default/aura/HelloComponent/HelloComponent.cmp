@@ -1,4 +1,5 @@
 <aura:component>
 Hello Component
 Hello Component
+<h1>Hello Component</h1>
 </aura:component>	
